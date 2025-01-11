@@ -1,8 +1,7 @@
-
 {
-    "name": "",
-    "color": "",
-    "bgcolor": "",
+    "name": "Pacific Airlines",
+    "color": "#fbdf4b",
+    "bgcolor": "#6cb7d5",
     "aircrafts": {
         "1": {
             "name": "Piper J3 Cub",
@@ -285,12 +284,11 @@
         "2899": {
             "name": "Airbus a220-300",
             "liveries": [ {
-                    "name": "Pacific Airlines Airbus A220-300",                                                          // Name of the livery
+                    "name": "Pacific Airlines Airbus A220-300",
                     "texture": [
-                        "",        // This is the link to the Specular shader
-                        "https://cdn.discordapp.com/attachments/1312431150995865722/1312822619850014720/Screenshot_2024-11-23_at_16.png?ex=677eac57&is=677d5ad7&hm=d7863ea1e3495445da8ba1f39d009ac9298060e59b1c9373a50605eead210884&"         // This is the link to the Texture
+                        "https://i.imgur.com/YRs3MmN.png"
                     ],
-                    "credits": "Bill Yu"                                                          // The creator of the livery mostly a discord or github nickname
+                    "credits": "Bill Yu"
                 }
             ],
             "labels": [
@@ -300,14 +298,14 @@
         "2871": {
             "name": "Airbus a320neo",
             "liveries": [
-            ],{
-                    "name": "Pacific Airlines Airbus A320-253N",                                                          // Name of the livery
+                {
+                    "name": "Pacific Airlines Airbus A320-253N",
                     "texture": [
-                        "",        // This is the link to the Specular shader
-                        "https://cdn.discordapp.com/attachments/1312431150995865722/1312822433987956827/Screenshot_2024-11-23_at_15.png?ex=677eac2b&is=677d5aab&hm=1e264a09cf709a5c1b5a72ba58644db93808c8bb1212750118cb067e11d0c99f&"         // This is the link to the Texture
+                        "https://i.imgur.com/24M66as.png"       
                     ],
-                    "credits": "Bill Yu"                                                          // The creator of the livery mostly a discord or github nickname
+                    "credits": "Bill Yu"
                 }
+            ],
             "labels": [
                 "Texture"
             ]
@@ -424,14 +422,15 @@
         "24": {
             "name": "Airbus a350-900",
             "liveries": [
-            ],{
-                    "name": "Pacific Airlines Airbus A350-900",                                                          // Name of the livery
+                {
+                    "name": "Pacific Airlines Airbus A350-900",
                     "texture": [
-                        "https://cdn.discordapp.com/attachments/1086669241475924031/1325942991071744011/specular.png?ex=677ef1a3&is=677da023&hm=481b6e023b26582eff7d8b86c0b1958a2ca2b156307512ed2046766098ac2754&",        // This is the link to the Specular shader
-                        "https://cdn.discordapp.com/attachments/1312431150995865722/1312821908831731792/Pacific_A359_New.png?ex=677eabae&is=677d5a2e&hm=4429379ac90b03f114affc8785c4d7f24b9557b6e3116de7ac1519ca9b206920&"         // This is the link to the Texture
+                        "/models/aircraft/premium/a350/specular.jpg",     
+                        "https://i.imgur.com/POB5LjR.jpeg"        
                     ],
-                    "credits": "Bill Yu"                                                          // The creator of the livery mostly a discord or github nickname
+                    "credits": "Bill Yu"
                 }
+            ],
             "labels": [
                 "Specular shader",
                 "Texture"
@@ -448,14 +447,21 @@
         "4646": {
             "name": "Airbus a321neo",
             "liveries": [
-            ],{
-                    "name": "Pacific Airlines Airbus A321-253N",                                                          // Name of the livery
+                {
+                    "name": "Pacific Airlines Airbus A321-253N, LR, XLR"
                     "texture": [
-                        "",        // This is the link to the Specular shader
-                        "https://cdn.discordapp.com/attachments/1312431150995865722/1314786533966090270/A321.png?ex=677e9121&is=677d3fa1&hm=5da182c14f6b51c3664fb91913b5ebaa7c183035692f599b82e73476d87eb890&"         // This is the link to the Texture
+                        "https://i.imgur.com/AydlS1i.png"
                     ],
-                    "credits": "Bill Yu"                                                          // The creator of the livery mostly a discord or github nickname
+                    "credits": "Bill Yu"
                 }
+                {
+                    "name": "Pacific Airlines Airbus A321XLR C-AXLR"
+                    "texture": [
+                        "https://i.imgur.com/wFUHHyq.png"
+                    ],
+                    "credits": "Bill Yu"
+                }
+            ],
             "labels": [
                 "Texture"
             ]
