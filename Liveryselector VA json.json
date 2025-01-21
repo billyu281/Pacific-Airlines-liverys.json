@@ -338,6 +338,13 @@
                     ],
                     "credits": "Bill Yu"
                 }
+                {
+                    "name": "Pacific Airlines Airbus A320-253N C-FGSE British Colombia Mountains",
+                    "texture": [
+                        "https://i.imgur.com/AsX7mZw.png"
+                    ],
+                    "credits": "Seasair"
+                }
             ],
             "labels": [
                 "Texture"
