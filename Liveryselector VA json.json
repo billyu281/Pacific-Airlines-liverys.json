@@ -397,11 +397,14 @@
         },
         "2973": {
             "name": "Airbus a350-1000",
-            "liveries": [],
-            "labels": [
-                "Texture"
-            ]
-        },
+            "liveries": [
+                {
+                    "name": "C-FGTY SAF livery",
+                    "texture": [
+                        "https://i.imgur.com/uWHN7uf.jpeg"
+                    ],
+                    "credits": "Seasair"
+                },
         "3054": {
             "name": "Boeing b737-800",
             "liveries": [],
