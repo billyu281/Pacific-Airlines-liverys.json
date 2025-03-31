@@ -193,6 +193,16 @@
                 }
 
             ],
+             {
+                    "name": "C-FDPB’Vancover'",
+                    "texture": [
+                        "/models/aircraft/premium/a350/specular.jpg",
+                        "https://imgur.com/a/fU9KMAH"
+                    ],
+                    "credits": "Seasair"
+                }
+
+            ],
             "labels": [
                 "Specular shader",
                 "Texture"
