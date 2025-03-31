@@ -190,18 +190,15 @@
                         "https://i.imgur.com/9BmwNVm.jpeg"
                     ],
                     "credits": "Seasair"
-                }
-
-            ],
-             {
-                    "name": "C-FDPB’Vancover'",
+                },
+                {
+                    "name": "C-FDPB’ Vancouver'",
                     "texture": [
                         "/models/aircraft/premium/a350/specular.jpg",
                         "https://imgur.com/a/fU9KMAH"
                     ],
-                    "credits": "Seasair"
+                    "credits": "Bill Yu"
                 }
-
             ],
             "labels": [
                 "Specular shader",
@@ -413,14 +410,13 @@
                     "texture": [
                         "https://i.imgur.com/uWHN7uf.jpeg"
                     ],
-                   "Credits": "Seasair"
+                    "Credits": "Seasair"
                 }
             ],
             "labels": [
                 "Texture"
             ]
         },
-
         "3054": {
             "name": "Boeing b737-800",
             "liveries": [],
