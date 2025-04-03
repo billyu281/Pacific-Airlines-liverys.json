@@ -396,6 +396,13 @@
                         "https://raw.githubusercontent.com/billyu281/Pacific-Airlines-liverys.json/refs/heads/main/A220%20General.png"
                     ],
                     "credits": "Bill Yu"
+                },
+                {
+                    "name": "C-FDFA 'Kelowa' ",
+                    "texture": [
+                        "https://raw.githubusercontent.com/billyu281/Pacific-Airlines-liverys.json/refs/heads/main/A220%20C-FDFA.png"
+                    ],
+                    "credits": "Bill Yu"
                 }
             ],
             "labels": [
