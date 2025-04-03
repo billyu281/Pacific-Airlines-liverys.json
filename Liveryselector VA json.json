@@ -518,7 +518,7 @@
                 {
                     "name": "Pacific Airlines Airbus A321-253N, LR, XLR",
                     "texture": [
-                        "https://github.com/billyu281/Pacific-Airlines-liverys.json/blob/main/A321%20defult.png?raw=true"
+                        "https://raw.githubusercontent.com/billyu281/Pacific-Airlines-liverys.json/main/A321%20defult.png"
                     ],
                     "credits": "Bill Yu"
                 },
