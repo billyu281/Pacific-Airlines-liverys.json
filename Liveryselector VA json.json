@@ -518,7 +518,14 @@
                 {
                     "name": "Pacific Airlines Airbus A321-253N, LR, XLR",
                     "texture": [
-                        "https://i.imgur.com/AydlS1i.png"
+                        "https://imgur.com/a/VXIhUIn"
+                    ],
+                    "credits": "Bill Yu"
+                },
+                {
+                    "name": "Pacific Airlines Airbus A321-253N C-GEGE",
+                    "texture": [
+                        "https://imgur.com/a/VHdnLYV"
                     ],
                     "credits": "Bill Yu"
                 },
