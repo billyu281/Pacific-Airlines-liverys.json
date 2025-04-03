@@ -350,7 +350,14 @@
                 {
                     "name": "Pacific Airlines Airbus A320-253N",
                     "texture": [
-                        "https://i.imgur.com/24M66as.png"
+                        "https://raw.githubusercontent.com/billyu281/Pacific-Airlines-liverys.json/refs/heads/main/All%20Pacific%20Airlines%20A350%20liverys.png"
+                    ],
+                    "credits": "Bill Yu"
+                },
+                 {
+                    "name": "C-FDFA ''",
+                    "texture": [
+                        "https://raw.githubusercontent.com/billyu281/Pacific-Airlines-liverys.json/refs/heads/main/A320.png"
                     ],
                     "credits": "Bill Yu"
                 },
