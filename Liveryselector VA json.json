@@ -207,11 +207,13 @@
         },
         "25": {
             "name": "Boeing b777-300ER",
-            "liveries": [],
+            "liveries": [
+                    "name": "Pacific Cargo 777-300ERSF",
             "labels": [
-                "Specular shader",
-                "Texture"
-            ]
+                "https://i.ibb.co/J5RxxdS/ersf-1.png",
+                "https://raw.githubusercontent.com/billyu281/Pacific-Airlines-liverys.json/main/40964096%20(10)%20(2).png"
+            ],
+            "credits": "Bill Yu
         },
         "26": {
             "name": "Antonov An-140",
