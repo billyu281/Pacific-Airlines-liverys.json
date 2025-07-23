@@ -191,6 +191,7 @@
                     ],
                     "credits": "Seasair"
                 },
+
                 {
                     "name": "C-FDPB’ Vancouver'",
                     "texture": [
@@ -223,9 +224,7 @@
       "Specular shader",
       "Texture"
     ]
-  }
-}
-
+  },
   "26": {
     "name": "Antonov An-140",
     "liveries": [],
