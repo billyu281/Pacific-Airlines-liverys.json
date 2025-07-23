@@ -191,9 +191,8 @@
                     ],
                     "credits": "Seasair"
                 },
-
                 {
-                    "name": "C-FDPB’ Vancouver'",
+                    "name": "C-FDPB Vancouver",
                     "texture": [
                         "/models/aircraft/premium/a350/specular.jpg",
                         "https://146687434-530121269341574877.preview.editmysite.com/uploads/1/4/6/6/146687434/c-fdpb.png"
@@ -206,34 +205,30 @@
                 "Texture"
             ]
         },
-        
-{
-  "25": {
-    "name": "Boeing b777-300ER",
-    "liveries": [
-      {
-        "name": "Pacific Cargo 777-300ERSF",
-        "texture": [
-          "https://i.ibb.co/J5RxxdS/ersf-1.png",
-          "https://raw.githubusercontent.com/billyu281/Pacific-Airlines-liverys.json/main/40964096%20(10)%20(2).png"
-        ],
-        "credits": "Bill Yu"
-      }
-    ],
-    "labels": [
-      "Specular shader",
-      "Texture"
-    ]
-  },
-  "26": {
-    "name": "Antonov An-140",
-    "liveries": [],
-    "labels": [
-      "Texture"
-    ]
-  }
-}
-
+        "25": {
+            "name": "Boeing b777-300ER",
+            "liveries": [
+                {
+                    "name": "Pacific Cargo 777-300ERSF",
+                    "texture": [
+                        "https://i.ibb.co/J5RxxdS/ersf-1.png",
+                        "https://raw.githubusercontent.com/billyu281/Pacific-Airlines-liverys.json/main/40964096%20(10)%20(2).png"
+                    ],
+                    "credits": "Bill Yu"
+                }
+            ],
+            "labels": [
+                "Specular shader",
+                "Texture"
+            ]
+        },
+        "26": {
+            "name": "Antonov An-140",
+            "liveries": [],
+            "labels": [
+                "Texture"
+            ]
+        },
         "27": {
             "name": "McDonell Douglas - Boeing F/A-18F Super Hornet",
             "liveries": [],
@@ -368,7 +363,7 @@
                     ],
                     "credits": "Bill Yu"
                 },
-                 {
+                {
                     "name": "C-FDFA 'York'",
                     "texture": [
                         "https://raw.githubusercontent.com/billyu281/Pacific-Airlines-liverys.json/refs/heads/main/A320%20C-FDFA%20York.png"
@@ -412,7 +407,7 @@
                     "credits": "Bill Yu"
                 },
                 {
-                    "name": "C-FDFA 'Kelowa' ",
+                    "name": "C-FDFA 'Kelowa'",
                     "texture": [
                         "https://raw.githubusercontent.com/billyu281/Pacific-Airlines-liverys.json/refs/heads/main/A220%20C-FDFA.png"
                     ],
@@ -438,7 +433,7 @@
                     "texture": [
                         "https://i.imgur.com/uWHN7uf.jpeg"
                     ],
-                    "Credits": "Seasair"
+                    "credits": "Seasair"
                 }
             ],
             "labels": [
@@ -636,5 +631,6 @@
             "labels": [
                 "Texture"
             ]
+        }
     }
 }
