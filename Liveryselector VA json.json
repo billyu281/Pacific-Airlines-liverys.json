@@ -206,30 +206,33 @@
             ]
         },
         
-"25": {
+{
+  "25": {
     "name": "Boeing b777-300ER",
     "liveries": [
-        {
-            "name": "Pacific Cargo 777-300ERSF",
-            "texture": [
-                "https://i.ibb.co/J5RxxdS/ersf-1.png",
-                "https://raw.githubusercontent.com/billyu281/Pacific-Airlines-liverys.json/main/40964096%20(10)%20(2).png"
-            ],
-            "credits": "Bill Yu"
-        }
+      {
+        "name": "Pacific Cargo 777-300ERSF",
+        "texture": [
+          "https://i.ibb.co/J5RxxdS/ersf-1.png",
+          "https://raw.githubusercontent.com/billyu281/Pacific-Airlines-liverys.json/main/40964096%20(10)%20(2).png"
+        ],
+        "credits": "Bill Yu"
+      }
     ],
+    "labels": [
+      "Specular shader",
+      "Texture"
+    ]
+  },
+  "26": {
+    "name": "Antonov An-140",
+    "liveries": [],
+    "labels": [
+      "Texture"
+    ]
+  }
+}
 
-  
-
-
-
-        "26": {
-            "name": "Antonov An-140",
-            "liveries": [],
-            "labels": [
-                "Texture"
-            ]
-        },
         "27": {
             "name": "McDonell Douglas - Boeing F/A-18F Super Hornet",
             "liveries": [],
